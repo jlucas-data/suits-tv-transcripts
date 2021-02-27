@@ -1,5 +1,5 @@
 # suits-tv-transcripts
-A look into the transcripts of Suits (TV)
+### A look into the transcripts of Suits (TV)
 
 Suits is an American legal drama television series that premiered on USA Network on 23rd June 2011. A series well known for it's quipy comebacks, this notebook is a quick look at the words, phrases and profanity of the scripts as they evolved over 9 seasons.
 
